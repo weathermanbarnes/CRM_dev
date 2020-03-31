@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700&display=swap");
+/* line 1, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_slider.scss */
+.slider_bg_mb_1 {
+  background-image: url(../img/banner/banner1.jpg);
+}
+
+/* line 4, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_slider.scss */
+.slider_bg_mb_2 {
+  background-image: url(../img/banner/banner2.jpg);
+}
+
+.slider_bg_mb_3 {
+  background-image: url(../img/banner/banner3.jpg);
+}
+
+.slider_bg_mb_4 {
+  background-image: url(../img/banner/banner4.jpg);
+}
+
+.single_service1 .service_icon1 {
+  color: #ffffff;
+  line-height: 50px;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
+  background: #0181f5;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #0181f5 0%, #5db2ff 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #0181f5 0%, #5db2ff 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #0181f5 0%, #5db2ff 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0181f5', endColorstr='#5db2ff',GradientType=0 );
+  /* IE6-9 */
+  border-color: transparent;
+}
+
+.contact-info__icon1 i, .contact-info__icon1 span {
+  color: #ffffff;
+  font-size: 27px;
+}
+
+.contact-text1 { 
+  color: #ffffff;
+  font-size: 27px;
+}
