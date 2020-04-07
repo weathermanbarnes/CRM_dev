@@ -55,3 +55,11 @@
 img.course_icon {
   fill: #ffffff;
 }
+
+.meet_eon {
+  background-image: url(../img/banner/banner4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 162px 0;
+}
