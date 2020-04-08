@@ -18,6 +18,10 @@
   background-image: url(../img/banner/banner4.jpg);
 }
 
+.slider_bg_mb_5 {
+  background-image: url(../img/banner/banner5.jpg);
+}
+
 .single_service1 .service_icon1 {
   color: #ffffff;
   line-height: 50px;
