@@ -67,3 +67,7 @@ img.course_icon {
   background-position: center center;
   padding: 162px 0;
 }
+
+.social_media_contact hover {
+  color: #5DB2FF;
+}
