@@ -71,3 +71,19 @@ img.course_icon {
 .social_media_contact hover {
   color: #5DB2FF;
 }
+
+.Information_area_index {
+  background-image: url(../img/banner/info_banner_home.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 162px 0;
+}
+
+.Information_area_courses {
+  background-image: url(../img/banner/info_banner_courses.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 162px 0;
+}
