@@ -1569,8 +1569,7 @@ h3 {
 /* line 58, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
 .case_study_area .single_case .case_thumb img {
   height: 250px;;
-  max-width: 100%;
-   -webkit-transform: scale(1);
+    -webkit-transform: scale(1);
   -moz-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
@@ -1578,6 +1577,9 @@ h3 {
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 /* line 64, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
